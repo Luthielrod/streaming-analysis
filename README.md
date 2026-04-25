@@ -1,3 +1,9 @@
+## 📊 Sample Visualizations
+
+![Content by Platform](images/calificaciones_edad.png)
+![Ratings Distribution](images/contenido_por_plataforma.PNG)
+
+
 # 📺 Streaming Platforms Analysis
 
 This project explores how streaming platforms differ in content availability, age ratings, and Rotten Tomatoes scores using Python.
