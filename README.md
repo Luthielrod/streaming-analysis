@@ -4,74 +4,50 @@
 ![Ratings Distribution](images/contenido_por_plataforma.PNG)
 
 
-# 📺 Streaming Platforms Analysis
+Streaming Data Analysis
+Overview
 
-This project explores how streaming platforms differ in content availability, age ratings, and Rotten Tomatoes scores using Python.
+This project analyzes streaming platform data to identify patterns in available content and understand how it is distributed across different platforms.
 
----
+The goal is to transform data into clear insights that can support decision-making.
 
-## 📌 Project Overview
+Tools & Technologies
+Python
+Pandas
+Matplotlib / Seaborn
+Jupyter Notebook (Kaggle)
 
-The objective of this project is to analyze and compare content across major streaming platforms such as Netflix, Prime Video, Hulu, and Disney+.
+Analysis Performed
+Data cleaning and preparation
+Exploratory Data Analysis (EDA)
+Data visualization
 
-The analysis focuses on identifying differences in catalog size, audience classification, and critic scores.
+Key Insights
+There are clear differences in the amount and type of content across platforms
+Certain genres dominate depending on the platform
+Patterns can be identified in catalog distribution
 
----
+Conclusions
 
-## 🧠 Tools & Technologies
+This analysis helps better understand how content is structured across streaming platforms and can serve as a basis for:
 
-* Python (Pandas, Matplotlib)
-* Jupyter Notebook
+business decisions
+content strategies
+market research
 
----
+Project Access
 
-## 📊 Analysis Highlights
+You can view the full analysis here:
+👉 https://github.com/Luthielrod/streaming-analysis
 
-* Comparison of total content by platform
-* Distribution of age ratings
-* Analysis of Rotten Tomatoes scores
-* Identification of top-rated movies
+About Me
 
----
+I am a data analyst in training, with a focus on Excel and Python.
+I aim to transform data into clear and useful insights for decision-making.
 
-## 📁 Files in this Repository
+Next Steps
 
-* `streaming-analysis.ipynb` → Python analysis
-
----
-
-## 💡 Key Insights
-
-* There are significant differences in content volume across platforms
-* Age rating distribution varies depending on the platform
-* Highly rated content is not equally distributed
-
----
-
-## 📸 Sample Output
-
-This project includes exploratory analysis and visualizations such as:
-
-* Content distribution by platform
-* Age rating comparisons
-* Rotten Tomatoes score analysis
-
-All visualizations are available inside the Jupyter Notebook.
-
----
-
-## 🚀 Future Improvements
-
-* Incorporate additional variables such as genre and release year
-* Expand analysis using SQL
-
----
-
-## 🙋 About Me
-
-I am currently building my data analysis portfolio, focusing on Python, SQL, and Excel.
-
-This project is part of my learning journey, and I am continuously improving my skills through hands-on practice.
-
-Feedback, suggestions, and collaboration are always welcome!
-
+Continue developing projects focused on:
+data analysis
+data visualization
+practical business solutions
